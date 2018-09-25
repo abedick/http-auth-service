@@ -1,0 +1,21 @@
+configured = true
+port = ":3895"
+
+[logger]
+  directory = "./logs"
+
+[tokenConfig]
+  signature = "7`?+`73~791I_,.|}*6#*)0-7`\"|.?0j"
+  [tokenConfig.accessMap]
+    admin = "^\"{0T7?/@,>72`0~&/8>^$?81%|<5&4U"
+    moderator = "7`?27%&@>2+5=133@~:[?}.\"10)j_!*R"
+    superuser = "/*w_0#)03$>+&{)7._7?>:<34\\3$7,5W"
+    user = "1}\"b}(6%\\[#`+17`&~<*/4(80[3+78`R"
+
+[modifiableConfig]
+  name = "simpleAuthServer complete"
+  debug = false
+  require_auth = true
+  auth_key = "secretAuthKey"
+  tokenExpiration = "6h"
+  accessModes = ["admin", "moderator", "user", "superuser"]

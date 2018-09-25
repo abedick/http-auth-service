@@ -1,0 +1,17 @@
+configured = false
+port = ":3895"
+
+[logger]
+  directory = "./logs"
+
+[tokenConfig]
+  signature = ""
+  [tokenConfig.accessMap]
+
+[modifiableConfig]
+  name = ""
+  debug = false
+  require_auth = false
+  auth_key = ""
+  tokenExpiration = ""
+  accessModes = [""]

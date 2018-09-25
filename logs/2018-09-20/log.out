@@ -1,0 +1,48 @@
+{"Type":"info","Time":"2018-09-20 17:49:00","Msg":"service started","Status":"success"}
+{"Type":"info","Time":"2018-09-20 17:49:29","Msg":"service started","Status":"success"}
+{"Time":"2018-09-20 17:49:46","Status":"success","Type":"info","Msg":"service started"}
+{"Time":"2018-09-20 17:50:00","Status":"success","Type":"info","Msg":"service started"}
+{"Time":"2018-09-20 17:50:14","Status":"success","Type":"info","Msg":"service started"}
+{"Time":"2018-09-20 18:03:00","Status":"success","Type":"info","Msg":"service started"}
+{"Time":"2018-09-20 18:03:02","Status":"error","Type":"info","Msg":"unauthorized"}
+{"Time":"2018-09-20 18:03:26","Status":"success","Type":"info","Msg":"service started"}
+{"Time":"2018-09-20 18:03:30","Status":"error","Type":"info","Msg":"unauthorized"}
+{"Time":"2018-09-20 18:03:36","Status":"success","Type":"info","Msg":"successfully retrieved status"}
+{"Time":"2018-09-20 18:04:27","Status":"success","Type":"info","Msg":"service started"}
+{"Time":"2018-09-20 18:04:30","Status":"success","Type":"info","Msg":"server status requested as running"}
+{"Time":"2018-09-20 18:04:44","Status":"success","Type":"info","Msg":"successfully updated config"}
+{"Time":"2018-09-20 18:05:17","Status":"success","Type":"info","Msg":"service started"}
+{"Time":"2018-09-20 18:05:19","Status":"success","Type":"info","Msg":"successfully updated config"}
+{"Time":"2018-09-20 18:05:32","Status":"success","Type":"info","Msg":"server status requested as running"}
+{"Time":"2018-09-20 18:05:35","Status":"success","Type":"info","Msg":"server status requested as running"}
+{"Time":"2018-09-20 18:05:46","Status":"error","Type":"info","Msg":"signature is invalid"}
+{"Time":"2018-09-20 18:05:55","Status":"error","Type":"info","Msg":"unauthorized"}
+{"Time":"2018-09-20 18:06:03","Status":"success","Type":"info","Msg":"issued token with requested details: {\"access_mode\":\"superuser\",\"claims\":{\"id\":\"test\",\"iss\":\"abeDick\",\"custom_claims\":{\"username\":\"123\"}}}"}
+{"Time":"2018-09-20 18:06:18","Status":"success","Type":"info","Msg":"validate token with claims: {\"access_mode\":\"superuser\",\"exp\":1537506363,\"iat\":1537484763,\"id\":\"test\",\"iss\":\"abeDick\",\"username\":\"123\"}"}
+{"Time":"2018-09-20 18:12:50","Status":"success","Type":"info","Msg":"validate token with claims: {\"access_mode\":\"superuser\",\"exp\":1537506363,\"iat\":1537484763,\"id\":\"test\",\"iss\":\"abeDick\",\"username\":\"123\"}"}
+{"time":"2018-09-20 18:23:57","status":"success","type":"info","msg":"service started"}
+{"time":"2018-09-20 18:24:14","status":"success","type":"info","msg":"service started"}
+{"time":"2018-09-20 18:24:19","status":"success","type":"info","msg":"successfully updated config"}
+{"time":"2018-09-20 18:24:37","status":"success","type":"info","msg":"successfully updated config"}
+{"time":"2018-09-20 18:25:05","status":"success","type":"info","msg":"service started"}
+{"time":"2018-09-20 18:25:07","status":"success","type":"info","msg":"successfully updated config"}
+{"time":"2018-09-20 18:25:14","status":"success","type":"info","msg":"issued token with requested details: {\"access_mode\":\"superuser\",\"claims\":{\"id\":\"test\",\"iss\":\"abeDick\",\"custom_claims\":{\"username\":\"123\"}}}"}
+{"time":"2018-09-20 18:25:29","status":"success","type":"info","msg":"successfully updated config"}
+{"time":"2018-09-20 18:25:36","status":"error","type":"info","msg":"unauthorized"}
+{"time":"2018-09-20 18:25:38","status":"success","type":"info","msg":"issued token with requested details: {\"access_mode\":\"superuser\",\"claims\":{\"id\":\"test\",\"iss\":\"abeDick\",\"custom_claims\":{\"username\":\"123\"}}}"}
+{"time":"2018-09-20 18:28:39","status":"success","type":"info","msg":"service started"}
+{"time":"2018-09-20 18:28:40","status":"error","type":"info","msg":"must update \"auth_key\" field"}
+{"time":"2018-09-20 18:28:53","status":"error","type":"info","msg":"invalid character '\"' after object key:value pair"}
+{"time":"2018-09-20 18:29:00","status":"success","type":"info","msg":"successfully updated config"}
+{"time":"2018-09-20 18:29:54","status":"success","type":"info","msg":"service started"}
+{"time":"2018-09-20 18:29:57","status":"error","type":"info","msg":"unauthorized"}
+{"time":"2018-09-20 18:30:08","status":"error","type":"info","msg":"unauthorized"}
+{"time":"2018-09-20 18:30:17","status":"success","type":"info","msg":"successfully updated config"}
+{"time":"2018-09-20 18:30:22","status":"success","type":"info","msg":"issued token with requested details: {\"access_mode\":\"superuser\",\"claims\":{\"id\":\"test\",\"iss\":\"abeDick\",\"custom_claims\":{\"username\":\"123\"}}}"}
+{"time":"2018-09-20 18:30:34","status":"success","type":"info","msg":"server status requested as running"}
+{"time":"2018-09-20 18:30:39","status":"error","type":"info","msg":"unauthorized"}
+{"time":"2018-09-20 18:30:43","status":"success","type":"info","msg":"server status requested as running"}
+{"time":"2018-09-20 18:30:45","status":"success","type":"info","msg":"server status requested as running"}
+{"time":"2018-09-20 18:30:49","status":"success","type":"info","msg":"server status requested as running"}
+{"time":"2018-09-20 18:30:59","status":"success","type":"info","msg":"validate token with claims: {\"access_mode\":\"superuser\",\"exp\":1537506363,\"iat\":1537484763,\"id\":\"test\",\"iss\":\"abeDick\",\"username\":\"123\"}"}
+{"time":"2018-09-20 18:31:01","status":"success","type":"info","msg":"validate token with claims: {\"access_mode\":\"superuser\",\"exp\":1537506363,\"iat\":1537484763,\"id\":\"test\",\"iss\":\"abeDick\",\"username\":\"123\"}"}
